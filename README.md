@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Nuñez</h1>
 <h3 align="center">I so really like the tecnology, i dream be full stack dev.</h3>
 
-- 🔭 I’m currently working on **Ventex**
+- 🔭 I’m currently working on **swifpass**
 
 - 🌱 I’m currently learning **ANGULAR, TS, and other tecnology.**
 
