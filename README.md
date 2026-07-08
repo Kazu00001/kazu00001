@@ -50,12 +50,12 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kazu00001&show_icons=true&locale=en&theme=radical" alt="Kazu00001" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=E-AlexanderNz&show_icons=true&locale=en&theme=radical" alt="E-AlexanderNz" width="48%"/>
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kazu00001&theme=radical" alt="Kazu00001" width="48%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=E-AlexanderNz&theme=radical" alt="E-AlexanderNz" width="48%"/>
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazu00001&show_icons=true&locale=en&layout=compact&theme=radical" alt="Kazu00001" width="48%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-AlexanderNz&show_icons=true&locale=en&layout=compact&theme=radical" alt="E-AlexanderNz" width="48%"/>
 </p>
